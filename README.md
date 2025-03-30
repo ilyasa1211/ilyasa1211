@@ -2,9 +2,6 @@
 
 # Hi, there! 
 
-## I'm Backend Engineer and Game Developer
------------------------------------
-
 I've lot of experiences as Backend Engineer, but I'd like to call myself as a Solo Game Developer
 
 *   🧠  I'm learning ML, Game Physics, Backend Related, Drawing. Those skills are needed for creating my dream games.
