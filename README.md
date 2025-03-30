@@ -7,4 +7,4 @@
 
 I've lot of experiences as Backend Engineer, but I'd like to call myself as a Solo Game Developer
 
-*   🧠  I'm learning. ML? Game Physics? Backend Related? That's right and also don't forget about Drawing. Those skills are needed for creating games!
+*   🧠  I'm learning ML, Game Physics, Backend Related, Drawing. Those skills are needed for creating my dream games.
