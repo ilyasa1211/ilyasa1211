@@ -5,3 +5,11 @@
 I've lot of experiences as Backend Engineer, but I'd like to call myself as a Solo Game Developer
 
 *   🧠  I'm learning ML, Game Physics, Backend Related, Drawing. Those skills are needed for creating my dream games.
+
+## Games
+
+Wanna play some games? Checkout the games that I made.
+
+- [Color Matching 🌈](https://ilyasa1211.github.io/game-matching-color/)
+- [Snake 🐍](https://ilyasa1211.github.io/game-snake/)
+- [Fruit Collector 🍊](https://ilyasa1211.github.io/game-fruit-collector/)
