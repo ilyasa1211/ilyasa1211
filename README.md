@@ -13,4 +13,5 @@ Wanna play some games? Checkout the games that I made.
 - [Color Matching 🎨](https://ilyasa1211.github.io/game-matching-color/)
 - [Snake 🐍](https://ilyasa1211.github.io/game-snake/)
 - [Fruit Collector 🍊](https://ilyasa1211.github.io/game-fruit-collector/)
-- [Sliding Puzzle](https://ilyasa1211.github.io/game-sliding-puzzle/)
+- [Sliding Puzzle🔢](https://ilyasa1211.github.io/game-sliding-puzzle/)
+- [Breakout🧱](https://ilyasa1211.github.io/game-breakout/)
