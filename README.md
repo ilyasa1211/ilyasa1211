@@ -2,22 +2,29 @@
 
 # Hi, there! 
 
-I've lot of experiences as Backend Engineer, but I'd like to call myself as a Solo Game Developer
+I've a lot of experience as a Backend Engineer, but I'd like to call myself a Solo Game Developer
 
-*   🧠  I'm learning ML, Game Physics, Backend Related, and Drawing. Those skills are needed for creating my dream games.
+🧠  These thing makes me curious:
+
+- ML
+- Game Physics
+- Backend Related, and
+- 🖌️ Drawing 
+
+Those skills are needed for creating my dream games.
 
 ## Games 🕹️
 
-Wanna play some games? Checkout the games that I made.
+Wanna play some games? Check out the games that I made.
 
-- [Color Matching 🎨](https://ilyasa1211.github.io/game-matching-color/)
-- [Snake 🐍](https://ilyasa1211.github.io/game-snake/)
-- [Fruit Collector 🍊](https://ilyasa1211.github.io/game-fruit-collector/)
-- [Sliding Puzzle🔢](https://ilyasa1211.github.io/game-sliding-puzzle/)
-- [Breakout🧱](https://ilyasa1211.github.io/game-breakout/)
+- [🎨 Color Matching](https://ilyasa1211.github.io/game-matching-color/)
+- [🐍 Snake](https://ilyasa1211.github.io/game-snake/)
+- [🍊 Fruit Collector](https://ilyasa1211.github.io/game-fruit-collector/)
+- [🔢 Sliding Puzzle](https://ilyasa1211.github.io/game-sliding-puzzle/)
+- [🧱 Breakout](https://ilyasa1211.github.io/game-breakout/)
 
 ## Tools ⚒️
 
-Consider to checkout some tools too.
+Consider checking out some tools too.
 
-- [Base Converter🪛](https://ilyasa1211.github.io/base-converter/)
+- [🪛 Base Converter](https://ilyasa1211.github.io/base-converter/)
