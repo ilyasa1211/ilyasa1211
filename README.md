@@ -4,8 +4,6 @@
 
 I've a lot of experience as a Backend Engineer, but I'd like to call myself a Solo Game Developer
 
-🧠  These thing makes me curious:
-
 - ML
 - Physics
 - Backend Stuff, and
