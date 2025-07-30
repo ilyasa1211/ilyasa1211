@@ -7,9 +7,9 @@ I've a lot of experience as a Backend Engineer, but I'd like to call myself a So
 🧠  These thing makes me curious:
 
 - ML
-- Game Physics
-- Backend Related, and
-- 🖌️ Drawing 
+- Physics
+- Backend Stuff, and
+- 🖌️ Drawing
 
 Those skills are needed for creating my dream games.
 
