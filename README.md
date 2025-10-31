@@ -2,7 +2,7 @@
 
 # Hi, there! 
 
-I've a lot of experience as a Backend Engineer, but I'd like to call myself a Solo Game Developer
+I've a lot of experience as a Backend Engineer, but I'd like to call myself a Game Developer
 
 - ML
 - Physics
@@ -13,7 +13,7 @@ Those skills are needed for creating my dream games.
 
 ## Games 🕹️
 
-Wanna play some games? Check out the games that I made.
+Wanna play some games? Check out some games that I have made.
 
 - [🎨 Color Matching](https://ilyasa1211.github.io/game-matching-color/) ([Source Code](https://github.com/ilyasa1211/game-matching-color))
 - [🐍 Snake](https://ilyasa1211.github.io/game-snake/) ([Source Code](https://github.com/ilyasa1211/game-snake))
