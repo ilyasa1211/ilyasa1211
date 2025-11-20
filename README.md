@@ -15,11 +15,12 @@ Those skills are needed for creating my dream games.
 
 Wanna play some games? Check out some games that I have made.
 
-- [🎨 Color Matching](https://ilyasa1211.github.io/game-matching-color/) --> ([Source Code](https://github.com/ilyasa1211/game-matching-color))
 - [🐍 Snake](https://ilyasa1211.github.io/game-snake/) --> ([Source Code](https://github.com/ilyasa1211/game-snake))
-- [🍊 Fruit Collector](https://ilyasa1211.github.io/game-fruit-collector/) --> ([Source Code](https://github.com/ilyasa1211/game-fruit-collector))
-- [🔢 Sliding Puzzle](https://ilyasa1211.github.io/game-sliding-puzzle/) --> ([Source Code](https://github.com/ilyasa1211/game-sliding-puzzle))
+- [🎨 Color Matching](https://ilyasa1211.github.io/game-matching-color/) --> ([Source Code](https://github.com/ilyasa1211/game-matching-color))
 - [🧱 Breakout](https://ilyasa1211.github.io/game-breakout/) --> ([Source Code](https://github.com/ilyasa1211/game-breakout))
+- [🔢 Sliding Puzzle](https://ilyasa1211.github.io/game-sliding-puzzle/) --> ([Source Code](https://github.com/ilyasa1211/game-sliding-puzzle))
+- [🍊 Fruit Collector](https://ilyasa1211.github.io/game-fruit-collector/) --> ([Source Code](https://github.com/ilyasa1211/game-fruit-collector))
+- ⭕ Tic Tac Toe --> ([SourceCode](https://github.com/ilyasa1211/game-tic-tac-toe))
 - 🟥 Tetris --> ([SourceCode](https://github.com/ilyasa1211/game-tetris))
 
 ## Tools ⚒️
