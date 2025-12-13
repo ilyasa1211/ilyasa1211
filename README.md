@@ -21,7 +21,7 @@ Wanna play some games? Check out some games that I have made.
 - [🔢 Sliding Puzzle](https://ilyasa1211.github.io/game-sliding-puzzle/) --> ([Source Code](https://github.com/ilyasa1211/game-sliding-puzzle))
 - [🍊 Fruit Collector](https://ilyasa1211.github.io/game-fruit-collector/) --> ([Source Code](https://github.com/ilyasa1211/game-fruit-collector))
 - ⭕ Tic Tac Toe --> ([SourceCode](https://github.com/ilyasa1211/game-tic-tac-toe))
-- 🟥 Tetris --> ([SourceCode](https://github.com/ilyasa1211/game-tetris))
+- [🟥 Tetris](https://ilyasa1211.github.io/game-tetris/) --> ([SourceCode](https://github.com/ilyasa1211/game-tetris))
 
 ## Tools ⚒️
 
