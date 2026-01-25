@@ -25,7 +25,7 @@ Wanna play some games? Check out some games that I have made.
 | 🧱 **Breakout**        | [Play](https://yassentials.github.io/game-breakout/)        | [GitHub](https://github.com/yassentials/game-breakout)        |
 | 🔢 **Sliding Puzzle**  | [Play](https://yassentials.github.io/game-sliding-puzzle/)  | [GitHub](https://github.com/yassentials/game-sliding-puzzle)  |
 | 🍊 **Fruit Collector** | [Play](https://yassentials.github.io/game-fruit-collector/) | [GitHub](https://github.com/yassentials/game-fruit-collector) |
-| ⭕ **Tic Tac Toe**      | —                                                          | [GitHub](https://github.com/yassentials/game-tic-tac-toe)     |
+| ⭕ **Tic Tac Toe**     | [Play](https://yassentials.github.io/game-tic-tac-toe/)     | [GitHub](https://github.com/yassentials/game-tic-tac-toe)     |
 | 🟥 **Tetris**          | [Play](https://yassentials.github.io/game-tetris/)          | [GitHub](https://github.com/yassentials/game-tetris)          |
 
 ## Software/Tools 🖨️
