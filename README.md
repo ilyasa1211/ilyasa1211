@@ -1,6 +1,6 @@
 # Hi, there! 
 
-I'm currently focusing on **Kotlin**, and creative stuffs such as **Blender**.
+I'm currently focusing on creative stuffs such as **Blender** and **UX/UI**.
 
 More about me? I love **Liminal Space**.
 
